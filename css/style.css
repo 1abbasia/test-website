@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: 'Audiowide', cursive;
+    
+}
+
+.banner{
+    height: 150px;
+    background: url(../images/space.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: 15% 40%;
+    padding: 1px 0px 10px 20px;
+}
+
+.banner h1{
+    color: royalblue;
+    font-size: 60px;
+    -webkit-text-stroke: .1px red;
+    
+}
+
+nav ul{
+    list-style: none;
+    background: #A1C0D4;
+    text-align: center;
+    
+}
+
+nav ul li{
+    display: inline-block;
+    font-size: 24px;
+    line-height: 44px;
+    margin: 0 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    font-weight: 700;
+}
+
+li:hover{
+    background-color: red;
+}
+
+.main {
+    height:100%;
+    width: 100%;
+    background:url(../images/nasalogo.jpeg);
+    background-size: cover;
+    
+    position: absolute;
+}
+
+.main{
+    color:aliceblue
+}
