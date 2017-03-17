@@ -55,6 +55,20 @@ li:hover{
     position: absolute;
 }
 
-.main{
-    color:aliceblue
+.intro{
+    height: 500px;
+    width: 500px;
+}
+
+img{
+    height: 500px;
+    width: 500px;
+}
+h3{
+    color: antiquewhite;
+}
+
+.aero {
+    height: 500px;
+    width: 500px;
 }
